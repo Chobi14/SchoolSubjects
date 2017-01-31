@@ -1,0 +1,2 @@
+# SchoolSubjects
+Different solutions
